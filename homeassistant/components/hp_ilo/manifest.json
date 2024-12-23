@@ -1,6 +1,6 @@
 {
-  "domain": "hp_ilo",
-  "name": "HP Integrated Lights-Out (ILO)",
+  "domain": "hp_ilo_custom_test",
+  "name": "HP Integrated Lights-Out (ILO) CUSTOM",
   "documentation": "https://www.home-assistant.io/integrations/hp_ilo",
   "requirements": ["python-hpilo==4.3"],
   "codeowners": [],
